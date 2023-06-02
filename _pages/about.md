@@ -18,8 +18,8 @@ redirect_from:
 
 Selected Experience
 ======
-###NASA Langley Research Center
-##Electronics Engineering Intern 
+### NASA Langley Research Center
+## Electronics Engineering Intern 
 
 
 ![nasa logo](/images/nasalogo.png){: .align-left width="200px", length="200px"}
