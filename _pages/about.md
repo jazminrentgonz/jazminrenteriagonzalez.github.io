@@ -19,25 +19,6 @@ redirect_from:
 Selected Experience
 ======
 
-<div class="main">
-	<div class="items" style="border: 1px solid black; padding-top: "> 
-		
-		<div class="app" style="border: 1px solid red;" > 
-		
-		<div class="app_top">
-			<div> 
-				<img src="_img1.jpg" width="95"/>
-			</div>
-			<span class="app_txt" style="border: 1px solid aqua;"> text text - House text house! Las...</span>
-			<span class="ltd" style="border: 1px solid pink;"> textic-texttive ltd</span>
-			<span class="" style="border: 1px solid blue;"> </span>
-		</div>
-		<div class="app_bottom">
-		
-		</div>
-	</div>
-</div>
-
 
 Selected Skills
 ======
