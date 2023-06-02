@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-======
 ![biomedical engineering picture](/images/biomedeng.png){: .align-right width="300px"}
 
 👩🏽‍💻 I'm a senior Electrical Engineering & Physics student at the [University of Missouri, Columbia](https://missouri.edu/).
