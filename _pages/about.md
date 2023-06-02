@@ -19,7 +19,7 @@ redirect_from:
 Selected Experience
 ======
 
-<!DOCTYPE html>
+
 <html>
   <head>
     <title>Pretty flower</title>
@@ -55,6 +55,11 @@ Selected Experience
   </body>
 </html>
 
+
+
+
+
+------
 Selected Skills
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
