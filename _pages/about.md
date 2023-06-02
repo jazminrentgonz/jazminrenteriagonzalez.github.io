@@ -18,7 +18,7 @@ redirect_from:
 
 NASA Langley Research Center
 ======
-<img align="left" width="100" height="100" src="https://picsum.photos/100/100"> 
+![nasa logo](/images/nasalogo.png){: .align-left width="200px", length="200px"}
 
 
 
