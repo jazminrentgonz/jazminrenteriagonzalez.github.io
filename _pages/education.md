@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
 * B.S. in Electrical Engineering, University of Missouri, 2025 (expected)
 * B.S. in Physics, University of Missouri, 2025 (expected)
 
