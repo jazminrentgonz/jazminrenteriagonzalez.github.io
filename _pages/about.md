@@ -23,6 +23,7 @@ NASA Langley Research Center
 ![nasa logo](/images/nasalogo.png){: .align-left width="200px", length="200px"}
 
 Electronics Engineering Intern 
+---
 
 Selected Skills
 ======
