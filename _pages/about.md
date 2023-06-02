@@ -19,7 +19,7 @@ redirect_from:
 Selected Experience
 ======
 ## NASA Langley Research Center
-### Electronics Engineering Intern 
+Electronics Engineering Intern (May 2023 - Present)
 
 
 ![nasa logo](/images/nasalogo.png){: .align-left width="200px", length="200px"}
