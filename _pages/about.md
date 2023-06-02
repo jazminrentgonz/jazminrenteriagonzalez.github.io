@@ -16,8 +16,10 @@ redirect_from:
 
 📚 I am also interested in STEM outreach and [inclusivity](https://engineering.missouri.edu/2022/a-family-away-from-home-feeling-at-mizzou-engineering/). 
 
-Selected Experience
+NASA Langley Research Center
 ======
+<img align="left" width="100" height="100" src="https://picsum.photos/100/100"> 
+
 
 
 Selected Skills
