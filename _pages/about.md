@@ -16,11 +16,14 @@ redirect_from:
 
 📚 I am also interested in STEM outreach and [inclusivity](https://engineering.missouri.edu/2022/a-family-away-from-home-feeling-at-mizzou-engineering/). 
 
-NASA Langley Research Center
+Selected Experience
 ======
+
+NASA Langley Research Center
+-----
 ![nasa logo](/images/nasalogo.png){: .align-left width="200px", length="200px"}
 
-
+Electronics Engineering Intern 
 
 Selected Skills
 ======
