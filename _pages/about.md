@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jazmin Renteria Gonzalez"
+title: "👋🏼 Hello there, I’m Jazmin!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
