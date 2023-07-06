@@ -14,7 +14,7 @@ Education
 * B.S. in Electrical Engineering, University of Missouri (expected 2025)
 * B.S. in Physics, University of Missouri (expected 2025)
 
-Work experience
+Honors & Distinctions
 ======
 * Summer 2015: Research Assistant
   * Github University
