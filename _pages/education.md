@@ -9,20 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-* B.S. in Electrical Engineering, University of Missouri, 2025 (expected)
-* B.S. in Physics, University of Missouri, 2025 (expected)
+* B.S. in _Electrical Engineering_, __University of Missouri__, 2025 (expected)
+* B.S. in _Physics_, __University of Missouri__, 2025 (expected)
 
-Work experience
+Honors & Distinctions
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
