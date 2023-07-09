@@ -14,35 +14,23 @@ redirect_from:
 
 Honors & Distinctions
 ======
-
+* Dean's High Honor Roll - College of Engineering
+* Hispanic Scholarship Fund Scholar (2020-21, 2021-22, 2022-23, 2023-24)
+* Kansas City Scholars - Traditional Scholarship
   
-Skills
+Leadership & Involvement
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Society of Hispanic Professional Engineers, _President_
+* Hispanic Development Fund - Student Advisory Board, _Representative_
+* Institute of Electrical & Electronics Engineers (IEEE), _Member_
+* Society of Women Engineers, _Member_
+  
+Service
+======
+* Hispanic Development Fund, _Scholarship Aide_
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
