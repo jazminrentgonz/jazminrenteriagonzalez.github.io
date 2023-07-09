@@ -15,16 +15,3 @@ redirect_from:
 🔬 My research & engineering interests are in energy harvesting for biomedical applications, PCB design, bio-microelectronics, nanotechnology, and automation. 
 
 📚 I am also interested in STEM outreach and [inclusivity](https://engineering.missouri.edu/2022/a-family-away-from-home-feeling-at-mizzou-engineering/). 
-
-Selected Experience
-======
-## NASA Langley Research Center
-Electronics Engineering Intern (May 2023 - Present)
-
-
-![nasa logo](/images/nasalogo.png){: .align-left width="200px", length="200px"}
-
-
-Selected Skills
-======
-
