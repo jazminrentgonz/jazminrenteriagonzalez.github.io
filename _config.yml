@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jazmin Renteria Gonzalez"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jazmin Renteria Gonzalez"
 description              : &description "personal description"
 url                      : https://jazminrentgonz.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
