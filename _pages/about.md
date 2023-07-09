@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jazmin Renteria Gonzalez"
+title: "👋🏼 Hello there, I’m Jazmin!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,9 +9,6 @@ redirect_from:
 ---
 
 ![biomedical engineering picture](/images/biomedeng.png){: .align-right width="300px"}
-
-👋🏼 Hello there, I’m Jazmin!
-====
 
 👩🏽‍💻 I'm a senior Electrical Engineering & Physics student at the [University of Missouri, Columbia](https://missouri.edu/).
 
