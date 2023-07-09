@@ -28,9 +28,3 @@ Leadership & Involvement
 Service
 ======
 * Hispanic Development Fund, _Scholarship Aide_
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
