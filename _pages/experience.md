@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-< {% include base_path %} >
-
 Work Experience
 ======
 * **MU College of Engineering, Engineering/STEM Tutor** (Fall 2023)
@@ -32,14 +30,12 @@ Work Experience
     
 Research
 ======
-* **Undergraduate Researcher - Analog/Mixed Signal VLSI & Devices Laboratory (ADVL)** (Fall 2023)
+* **Undergraduate Researcher - [Analog/Mixed Signal VLSI & Devices Laboratory (ADVL)](https://www.avd-lab.org/)** (Fall 2023)
   * 1
   * 2
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Research Assistant - [Analog/Mixed Signal VLSI & Devices Laboratory (ADVL)](https://www.avd-lab.org/)** (Spring 2021)
+  * 1
   
 Skills
 ======
